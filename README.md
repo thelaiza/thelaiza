@@ -6,7 +6,7 @@ Sou estudante de **Engenharia de Software**, apaixonada por desenvolvimento de s
 
 ## 💡 Sobre mim
 
-🔭 Atualmente, estou focado(a) em aprimorar minhas habilidades em desenvolvimento de software, explorando tecnologias modernas e boas práticas
+🔭 Atualmente, estou focada em aprimorar minhas habilidades em desenvolvimento de software, explorando tecnologias modernas e boas práticas
 
 🎯 Meu objetivo é criar soluções inovadoras e eficientes que facilitem o dia a dia das pessoas e gerem impacto positivo através da tecnologia
 
