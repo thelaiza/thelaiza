@@ -37,3 +37,5 @@ Sou estudante de **Engenharia de Software**, apaixonada por desenvolvimento de s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laíza-silva241204)
 
 ---
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thelaiza&layout=compact&theme=radical&locale=pt-br)
