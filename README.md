@@ -1,10 +1,10 @@
-# 👋 Olá, seja bem-vindo(a)!
+# Olá!
 
 Sou estudante de **Engenharia de Software**, apaixonada por desenvolvimento de software e entusiasta de tecnologia. Sempre em busca de aprender e explorar novas tecnologias.
 
 ---
 
-## 💡 Sobre mim
+## Sobre mim
 
 🔭 Atualmente, estou focada em aprimorar minhas habilidades em desenvolvimento de software, explorando tecnologias modernas e boas práticas
 
@@ -14,7 +14,7 @@ Sou estudante de **Engenharia de Software**, apaixonada por desenvolvimento de s
 
 ---
 
-## 🚀 **Tech Stack**
+## **Tech Stack**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
