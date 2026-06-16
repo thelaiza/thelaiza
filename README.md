@@ -4,7 +4,7 @@
   Sou estudante de <strong>Engenharia de Software</strong>, apaixonada por desenvolver soluções que resolvem problemas reais e geram impacto positivo através da tecnologia.
 </p>
 
-🔭 Atualmente, estou focada em aprimorar minhas habilidades em desenvolvimento back-end com **Python/Django e C#/.NET**, enquanto exploro o universo do front-end com **React**.
+🔭 Atualmente, estou focada em aprimorar minhas habilidades em desenvolvimento back-end com C#/.NET**, enquanto exploro o universo do front-end com **React**.
 
 🎯 Meu objetivo é atuar na criação de aplicações escaláveis e eficientes, que facilitem o dia a dia das pessoas. Tenho grande interesse em projetos de tecnologia para educação e automação de processos.
 
