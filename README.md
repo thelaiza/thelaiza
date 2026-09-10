@@ -10,14 +10,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/thelaiza">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelaiza&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</p>
-
----
-
 ## Tech Stack
 
 <p align="center">
